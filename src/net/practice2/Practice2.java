@@ -3,7 +3,8 @@ package net.practice2;
 public class Practice2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Greeting
+		System.out.println("Hello, world!");
 
 	}
 
